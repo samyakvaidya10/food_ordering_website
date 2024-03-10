@@ -1,5 +1,8 @@
 This repository contains the source code for a user-friendly food ordering website built using React.js and styled with Tailwind CSS. It allows customers to browse Restaurant,menus, add items to their cart.
 
+website link:
+https://samyaksfoodorderingwebsite.netlify.app/
+
 Key Features:
 
 Intuitive UI and Navigation: Smooth navigation through the website with clean and modern design thanks to Tailwind CSS utilities.
