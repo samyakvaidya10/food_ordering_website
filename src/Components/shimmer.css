@@ -1,0 +1,24 @@
+
+
+@keyframes shimmer {
+    0% {
+      background-position: 200%;
+    }
+    100% {
+      background-position: -200%;
+    }
+  }
+  
+  .shimmer-container {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .shimmer {
+    border-radius: 10px;
+    
+    background: linear-gradient(90deg, #f0f0ff 25%, #e0e0ee 50%, #f0f0ff 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+  }
+  
